@@ -1,1 +1,1 @@
-https://amitpaulakas.github.io/textanimation/
+https://amitpaulakas.github.io/textanimation/ 
